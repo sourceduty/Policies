@@ -1,0 +1,19 @@
+Sourceduty AI Development and Ethics Policy
+
+At Sourceduty, the development and use of artificial intelligence (AI) are guided by principles that prioritize human values, transparency, and social responsibility. This policy outlines commitments and guidelines for ensuring ethical AI practices within the company.
+
+Transparency and Explainability: AI systems at Sourceduty will be transparent and explainable. Efforts will be made to ensure that AI models are understandable to users and stakeholders, providing clear insights into decision-making processes. This includes documenting datasets, training processes, and the logic behind algorithmic decisions, enabling accountability and building trust in AI-driven solutions.
+
+Fairness and Non-Discrimination: Sourceduty is dedicated to creating AI systems that treat all individuals fairly and without bias. Regular audits will be conducted to identify and mitigate biases in data, models, and outcomes. The goal is to prevent the perpetuation or exacerbation of social inequalities, with corrective actions taken if any unfairness or discrimination is detected.
+
+Privacy and Data Security: Privacy and data security are paramount in AI development at Sourceduty. Personal data used in AI training and operations will be handled with the utmost care, in compliance with relevant data protection regulations. Data will be anonymized and secured, ensuring that user privacy is respected throughout the AI system lifecycle.
+
+Human-Centric Design: AI at Sourceduty is designed to augment human capabilities rather than replace them. AI tools will be created to enhance human creativity and decision-making, with a focus on maintaining human oversight and control. The development process will emphasize user experience, ensuring that AI solutions are intuitive, accessible, and aligned with the best interests of users.
+
+Ethical Use and Social Impact: AI technologies at Sourceduty will be used responsibly, with consideration for broader societal impacts. AI applications will be developed and deployed to contribute positively to society, avoiding harmful uses such as surveillance or manipulation. Initiatives that promote social good will be prioritized.
+
+Continuous Learning and Adaptation: AI development at Sourceduty is an ongoing process that requires continuous learning and adaptation. Best practices in AI ethics will be incorporated into workflows, with regular training and reflection on ethical AI practices. The approach will evolve alongside advancements in the field to stay informed about the latest developments in AI ethics.
+
+Accountability and Governance: Clear governance structures will be established to oversee AI development and ensure accountability for ethical practices at Sourceduty. An ethics committee or officer will be designated to monitor AI projects, review ethical considerations, and address any concerns raised by stakeholders. This governance framework will include mechanisms for feedback, ensuring that AI development aligns with ethical commitments and the values of the community.
+
+By adhering to these principles, Sourceduty aims to foster trust and integrity in AI development, ensuring that technologies are used to enhance creativity, promote fairness, and contribute positively to society.
